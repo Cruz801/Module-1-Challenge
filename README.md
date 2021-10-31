@@ -7,3 +7,5 @@ Repaired search engine link
 Renamed elements and divs in HTML to more specific HTML elements
 ## Alt Descriptions
 Added alt descriptions to images
+## CSS
+Consolidated CSS to have less of the same class
