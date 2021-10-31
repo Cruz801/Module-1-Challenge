@@ -1,4 +1,5 @@
 # Module-1-Challenge
+Refactored Horisen's HTML and CSS to perform the same with more specific HTML elements and less CSS repeats.
 ## Title
 Renamed the title in html to reflect the website
 ## Link
