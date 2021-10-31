@@ -1,5 +1,9 @@
 # Module-1-Challenge
-##Changed title to reflect the website
-##Linked search engine
-##renamed elements and divs to read the code better
-##Added alt descriptions to images
+## Title
+Renamed the title in html to reflect the website
+## Link
+Repaired search engine link
+## Elements
+Renamed elements and divs in HTML to more specific HTML elements
+## Alt Descriptions
+Added alt descriptions to images
